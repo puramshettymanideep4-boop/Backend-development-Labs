@@ -273,23 +273,23 @@ The following images must be captured from the running project and saved in the 
 
 ### Get a single book
 
-![REST Client response for retrieving a single book](./screenshoots/Screenshot%20(19).png)
+![REST Client response for retrieving a single book](./screenshoots/getbookbyid.png)
 
 ### Add a book
 
-![REST Client response for adding a book](./screenshots/post-book.png)
+![REST Client response for adding a book](./screenshots/addbook.png)
 
 ### Update a book
 
-![REST Client response for updating a book](./screenshots/put-book.png)
+![REST Client response for updating a book](./screenshots/updatebook.png)
 
 ### Delete a book
 
-![REST Client response for deleting a book](./screenshots/delete-book.png)
+![REST Client response for deleting a book](./screenshots/deletebook.png)
 
 ### Database view
 
-![SQLite database table view](./screenshots/database-view.png)
+![SQLite database table view](./screenshots/database.png)
 ## Problems Faced and Solutions
 
 | Problem Faced                                                     | Solution                                                                 |
