@@ -273,7 +273,7 @@ The following images must be captured from the running project and saved in the 
 
 ### Get a single book
 
-![REST Client response for retrieving a single book](./screenshots/get-single-book.png)
+![REST Client response for retrieving a single book](./screenshoots/Screenshot%20(19).png)
 
 ### Add a book
 
