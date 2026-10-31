@@ -1,5 +1,6 @@
 # Lab 1: Node.js and Express Server
 
+Live Deployment Url:https://backend-development-fundamentals-lab-01-qzre.onrender.com/
 
 **Subject:** Backend Development Fundamentals  
 **Year/Term:** Year II, Term II  
