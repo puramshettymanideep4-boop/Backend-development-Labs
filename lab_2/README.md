@@ -269,7 +269,7 @@ The following images must be captured from the running project and saved in the 
 
 ### Get all books
 
-![REST Client response for retrieving all books](./getallbooks_response.png)
+![REST Client response for retrieving all books](./screenshots/getallbooks_response.png)
 
 ### Get a single book
 
