@@ -1,5 +1,8 @@
 # Lab 3: Advanced REST API Operations Using Express.js
 
+## Live Deployment Link:
+🔗 [https://backend-development-labs.onrender.com](https://backend-development-labs.onrender.com)
+
 ## Course Information
 
 | Field      | Details                          |
